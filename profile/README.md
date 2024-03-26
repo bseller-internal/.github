@@ -13,5 +13,5 @@ https://www.instagram.com/somosbseller/
 
 * Nossas Aplicações
 
-https://api.bseller.com.br/docs/
+https://api.bseller.com.br/docs/ <br>
 https://backweb.bseller.com.br/
