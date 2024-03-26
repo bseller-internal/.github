@@ -1,4 +1,4 @@
-# <p align="center">BSeller - ERP E BACKOFFICE COMPLETO</p>
+# BSeller - ERP E BACKOFFICE COMPLETO
 
 <p align="center">
   <img width="550" height="160" src="https://backweb.bseller.com.br/images/logo.77846931.png">
