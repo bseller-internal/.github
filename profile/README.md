@@ -1,12 +1,3 @@
-## Hi there 👋
+BSeller - ERP E BACKOFFICE COMPLETO
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A BSeller ERP é uma empresa especializada no desenvolvimento e fornecimento de soluções de software de gestão empresarial (ERP). Seu foco está em oferecer sistemas integrados que ajudam empresas de diversos segmentos a gerenciar suas operações de forma mais eficiente. O ERP da BSeller abrange áreas como vendas, compras, estoque, financeiro, contabilidade, produção, entre outras, buscando automatizar processos, melhorar a tomada de decisões e aumentar a produtividade dos clientes. A empresa também oferece serviços de consultoria e suporte para garantir a melhor utilização de suas soluções pelos clientes.
