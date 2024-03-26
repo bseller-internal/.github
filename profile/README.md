@@ -10,3 +10,8 @@ A BSeller ERP é uma empresa especializada no desenvolvimento e fornecimento de 
 
 https://bseller.com.br/ <br>
 https://www.instagram.com/somosbseller/
+
+* Nossas Aplicações
+
+https://api.bseller.com.br/docs/
+https://backweb.bseller.com.br/
